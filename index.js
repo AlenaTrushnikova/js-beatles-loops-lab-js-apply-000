@@ -13,7 +13,7 @@ function johnLennonFacts(facts) {
   const factsWithExclamationPoints = [] 
   
   while (facts[i]) {
-  // code block to be executed
+    
   }
   
 }
