@@ -23,4 +23,10 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles() {
   const arr = []
+  
+  do {
+  // code block to be executed
+}
+while (condition);
+
 }
