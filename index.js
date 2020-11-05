@@ -14,7 +14,7 @@ function johnLennonFacts(facts) {
   var i = 0
   
   while (facts[i]) {
-    factsWithExclamationPoints.push(`${facts[i]} !!!`);
+    factsWithExclamationPoints.push(`${facts[i]}!!!`);
     i++;
   }
   return factsWithExclamationPoints
