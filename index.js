@@ -9,6 +9,6 @@ function theBeatlesPlay(musicians, instruments) {
   return arr 
 }
 
-function johnLennonFacts(j_facts) {
-  
+function johnLennonFacts(facts) {
+  const facts = []
 }
