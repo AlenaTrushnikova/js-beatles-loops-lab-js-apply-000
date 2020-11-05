@@ -13,7 +13,8 @@ function johnLennonFacts(facts) {
   const factsWithExclamationPoints = [] 
   
   while (facts[i]) {
-    factsWithExclamationPoints.push(`${facts[i]} !!!`)
+    factsWithExclamationPoints.push(`${facts[i]} !!!`;
+    i++;)
   }
-  
+  re
 }
