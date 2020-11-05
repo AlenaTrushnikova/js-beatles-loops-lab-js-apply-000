@@ -21,9 +21,8 @@ function johnLennonFacts(facts) {
   return factsWithExclamationPoints
 }
 
-function iLoveTheBeatles() {
+function iLoveTheBeatles(i) {
   const arr = []
-  var i = 0
   
   do {
     arr.push(`I love the Beatles!`);
