@@ -10,9 +10,10 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 function johnLennonFacts(facts) {
-  const factsWithExclamationPoints = [] {
+  const factsWithExclamationPoints = [] 
+  
   while (condition) {
   // code block to be executed
   }
-}
+  
 }
