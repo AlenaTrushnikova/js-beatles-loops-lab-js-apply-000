@@ -3,4 +3,4 @@ var musicians = []
     instruments = []
 
 function theBeatlesPlay(musicians, instruments)
-   for musicians
+   for musicians[i] && instruments[i]
