@@ -10,7 +10,8 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 function johnLennonFacts(facts) {
-  const factsWithExclamationPoints = [] 
+  const factsWithExclamationPoints = []
+  var i = 0
   
   while (facts[i]) {
     factsWithExclamationPoints.push(`${facts[i]} !!!`);
