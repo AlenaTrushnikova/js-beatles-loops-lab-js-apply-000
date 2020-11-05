@@ -2,8 +2,10 @@
 
 function theBeatlesPlay(musicians, instruments) {
   const arr = []
+  var i = 0
+      l = musicians.length
   
-  for (let i = 0, l = musicians.length; i < l; i++) {
+  for (i < l; i++) {
     arr.push(`${musicians[i]} plays ${instruments[i]}`)
   }
   return arr 
@@ -20,4 +22,3 @@ function johnLennonFacts(facts) {
   return factsWithExclamationPoints
 }
 
-function
