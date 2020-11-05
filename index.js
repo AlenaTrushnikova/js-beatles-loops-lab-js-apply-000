@@ -26,15 +26,9 @@ function iLoveTheBeatles() {
   var i = 0
   
   do {
-    arr.push(``)
+    arr.push(`"I love the Beatles!"`);
+    i++;
   }
   while (i < 15);
-
+  return arr
 }
-
-
-do {
-  text += "The number is " + i;
-  i++;
-}
-while (i < 15);
