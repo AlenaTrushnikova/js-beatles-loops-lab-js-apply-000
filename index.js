@@ -12,7 +12,7 @@ function theBeatlesPlay(musicians, instruments) {
 function johnLennonFacts(facts) {
   const factsWithExclamationPoints = [] 
   
-  while (condition) {
+  while (facts[i]) {
   // code block to be executed
   }
   
