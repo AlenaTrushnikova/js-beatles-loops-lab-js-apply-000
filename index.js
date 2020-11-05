@@ -23,10 +23,18 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles() {
   const arr = []
+  var i = 0
   
   do {
-  // code block to be executed
-}
-while (condition);
+    arr.push(``)
+  }
+  while (i < 15);
 
 }
+
+
+do {
+  text += "The number is " + i;
+  i++;
+}
+while (i < 15);
